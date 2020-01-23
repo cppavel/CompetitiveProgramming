@@ -35,6 +35,8 @@ int main()
 			r = mid - 1;
 		}
 	}
+	
+	delete [] a;
 
 	cout << l << endl;
 
