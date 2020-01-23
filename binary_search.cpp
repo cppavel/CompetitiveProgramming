@@ -1,4 +1,4 @@
-// TemplatesForCompetitiveProgramming.cpp: определяет точку входа для консольного приложения.
+// TemplatesForCompetitiveProgramming.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
