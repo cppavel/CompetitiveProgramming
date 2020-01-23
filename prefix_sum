@@ -30,6 +30,9 @@ int main()
 	cin >> l >> r;
 
 	int sum = l!=0?prefix_sum[r] - prefix_sum[l-1]:prefix_sum[r];
+	
+	delete[] a;
+	delete[] prefix_sum;
 
 	cout << sum << endl;
 
